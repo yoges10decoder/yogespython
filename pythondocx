@@ -1,0 +1,84 @@
+Error came while running ./hello.py
+in python file i gave the wrong path (/usr/loca/bin python3 )
+
+-bash: ./hello.py: /usr/local/bin: bad interpreter: Permission denied
+
+after changed to #!/usr/local/bin/python3
+successfull
+
+
+This is for print multiple lines
+"""
+... this is 1st line
+... this is 2nd line
+... """
+
+
+Single qoute 
+'single quoted'
+'single quoted'
+"double quoted"
+'double quoted'
+
+
+to find any letters in this string
+'madras'.find('r')
+3
+
+Convert to lower
+'MadrAs'.lower()
+'madras'
+
+Convert to Upper
+'MadrAs'.upper()
+'MADRAS'
+
+
+for tab \t
+ 
+print("ten \tspace")
+ten 	space
+
+for slash \\
+
+print("t \\space")
+t \space
+
+for tab and slash \t\
+
+print("t \t\space")
+t 	\space
+
+
+for new line
+print("top \ntspace")
+top 
+tspace
+
+For nextline and tab
+
+print("top \n sat\tspace")
+top 
+ sat	space
+ 
+ 
+Normal ranges
+>>> list(range(1,12))   
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+
+
+Range(start,end,step)
+ 
+>>> list(range(1,12,2)) 
+[1, 3, 5, 7, 9, 11]
+>>> 
+
+
+ 
+git config --global user.name "yoges10decoder"
+
+git config --global user.email "yogeskumar@10decoders.in"
+
+ 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
+
+
