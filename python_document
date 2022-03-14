@@ -1,0 +1,9 @@
+Error came while running ./hello.py
+in python file i gave the wrong path (/usr/loca/bin python3 )
+
+-bash: ./hello.py: /usr/local/bin: bad interpreter: Permission denied
+
+after changed to #!/usr/local/bin/python3
+successfull
+
+
